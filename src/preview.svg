@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="33px" viewBox="0 0 54 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="*-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3-Copy" fill="#FFFFFF">
+            <g id="Discover">
+                <path d="M27,32.0384615 C18.5063954,32.0384615 10.2104602,27.2523451 2.11077729,17.9065571 L0.691761126,16.2692308 L2.11077729,14.6319044 C10.2104602,5.28611645 18.5063954,0.5 27,0.5 C35.4936046,0.5 43.7895398,5.28611645 51.8892227,14.6319044 L53.3082389,16.2692308 L51.8892227,17.9065571 C43.7895398,27.2523451 35.4936046,32.0384615 27,32.0384615 Z M7.35662145,16.2692308 C14.0754437,23.5098751 20.6236193,27.0384615 27,27.0384615 C33.3763807,27.0384615 39.9245563,23.5098751 46.6433786,16.2692308 C39.9245563,9.02858641 33.3763807,5.5 27,5.5 C20.6236193,5.5 14.0754437,9.02858641 7.35662145,16.2692308 Z" id="Oval-2" fill-rule="nonzero"></path>
+                <circle id="Oval-3" cx="27" cy="16" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

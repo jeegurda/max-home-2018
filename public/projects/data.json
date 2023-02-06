@@ -1,0 +1,52 @@
+[
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?0",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok",
+    "template": "./projects/template-istok.html"
+  },
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?1",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok1",
+    "template": "./projects/template-istok.html"
+  },
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?2",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok2",
+    "template": "./projects/template-istok.html"
+  },
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?3",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok3",
+    "template": "./projects/template-istok.html"
+  },
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?4",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok4",
+    "template": "./projects/template-istok.html"
+  },
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?5",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok5",
+    "template": "./projects/template-istok.html"
+  },
+  {
+    "preview": "./projects/preview-istok.png",
+    "video": "./projects/video-istok.mp4?6",
+    "title": "Личный кабинет системы лояльности Банка Хоум Кредит",
+    "id": "istok6",
+    "template": "./projects/template-istok.html",
+    "hidden": true
+  }
+]
